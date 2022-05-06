@@ -1,0 +1,25 @@
+.navigation{  
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    
+    top: 0;
+    left: 0;
+    background-color: #0c0c0c;
+    
+    text-align: Center;
+    padding-top: 20px;
+    }
+    .sideBarButton {
+        background-color: #e6d784;
+        border: none;
+        color: rgb(14, 13, 13);
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+      }
+     .navigation  h1{
+          color:rgb(211, 203, 87);
+      }

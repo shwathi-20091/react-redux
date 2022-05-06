@@ -1,0 +1,28 @@
+.content{
+    padding: 20px;
+    background-color: #dc58bed4;
+    background-image: linear-gradient(to bottom right, rgb(46, 44, 44), rgb(197, 197, 90));
+    height: 300px;
+    font-size:22px;
+    text-align: Center;
+    margin:3px;
+    right:0px;
+    
+  }
+  .submitbtn {
+    background-color: #cec76f;
+    color: #1d1b1b;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 20%;
+    opacity: 0.9;
+  }
+  .input {
+    width: 30%;
+    height: 30px;
+    font-size: 20px;
+    line-height: 1;
+  }
+  
